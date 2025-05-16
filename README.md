@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/cover.png" alt="Flight Price Prediction Banner" width="80%">
+</p>
+
 # ✈️ Flight Price Prediction
 
 A machine learning project aimed at predicting flight ticket prices based on various features such as airline, source, destination, departure and arrival times, duration, and number of stops. This project involves data preprocessing, exploratory data analysis (EDA), feature engineering, and model training using regression algorithms.
