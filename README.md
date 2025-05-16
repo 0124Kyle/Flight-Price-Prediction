@@ -6,6 +6,8 @@ A machine learning project aimed at predicting flight ticket prices based on var
 
 ```
 Flight-Price-Prediction/
+├── assets/
+    └── cover.png
 ├── Clean_Dataset.csv
 ├── Project.ipynb
 ├── README.md
